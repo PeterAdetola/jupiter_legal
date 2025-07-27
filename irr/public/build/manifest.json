@@ -1,0 +1,109 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BBEUxWPD.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/fonts/star.eot": {
+    "file": "assets/star-CafH-f8r.eot",
+    "src": "resources/css/fonts/star.eot"
+  },
+  "resources/css/fonts/star.svg": {
+    "file": "assets/star-D5fN9Byf.svg",
+    "src": "resources/css/fonts/star.svg"
+  },
+  "resources/css/fonts/star.ttf": {
+    "file": "assets/star-_mUUno1S.ttf",
+    "src": "resources/css/fonts/star.ttf"
+  },
+  "resources/css/fonts/star.woff": {
+    "file": "assets/star-CYx6qdPE.woff",
+    "src": "resources/css/fonts/star.woff"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Ctf9rR0H.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-DMN7tbpl.css",
+      "assets/app-BBEUxWPD.css"
+    ],
+    "assets": [
+      "assets/fa-brands-400-D_cYUPeE.woff2",
+      "assets/fa-brands-400-D1LuMI3I.ttf",
+      "assets/fa-regular-400-BjRzuEpd.woff2",
+      "assets/fa-regular-400-DZaxPHgR.ttf",
+      "assets/fa-solid-900-CTAAxXor.woff2",
+      "assets/fa-solid-900-D0aA9rwL.ttf",
+      "assets/fa-v4compatibility-C9RhG_FT.woff2",
+      "assets/fa-v4compatibility-CCth-dXg.ttf",
+      "assets/Simple-Line-Icons-CKKl-dGR.eot",
+      "assets/Simple-Line-Icons-D0KobG-u.woff2",
+      "assets/Simple-Line-Icons-mVuQrdSX.ttf",
+      "assets/Simple-Line-Icons-BAgH0-Pt.woff",
+      "assets/Simple-Line-Icons-TZpPYPE3.svg",
+      "assets/owl.video.play-BJo37keB.png",
+      "assets/star-CafH-f8r.eot",
+      "assets/star-CYx6qdPE.woff",
+      "assets/star-_mUUno1S.ttf",
+      "assets/star-D5fN9Byf.svg"
+    ]
+  },
+  "resources/vendor/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-D1LuMI3I.ttf",
+    "src": "resources/vendor/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "resources/vendor/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-D_cYUPeE.woff2",
+    "src": "resources/vendor/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "resources/vendor/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-DZaxPHgR.ttf",
+    "src": "resources/vendor/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "resources/vendor/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-BjRzuEpd.woff2",
+    "src": "resources/vendor/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "resources/vendor/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-D0aA9rwL.ttf",
+    "src": "resources/vendor/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "resources/vendor/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-CTAAxXor.woff2",
+    "src": "resources/vendor/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "resources/vendor/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-CCth-dXg.ttf",
+    "src": "resources/vendor/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "resources/vendor/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-C9RhG_FT.woff2",
+    "src": "resources/vendor/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "resources/vendor/owl.carousel/assets/owl.video.play.png": {
+    "file": "assets/owl.video.play-BJo37keB.png",
+    "src": "resources/vendor/owl.carousel/assets/owl.video.play.png"
+  },
+  "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot": {
+    "file": "assets/Simple-Line-Icons-CKKl-dGR.eot",
+    "src": "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot"
+  },
+  "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg": {
+    "file": "assets/Simple-Line-Icons-TZpPYPE3.svg",
+    "src": "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg"
+  },
+  "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf": {
+    "file": "assets/Simple-Line-Icons-mVuQrdSX.ttf",
+    "src": "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf"
+  },
+  "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff": {
+    "file": "assets/Simple-Line-Icons-BAgH0-Pt.woff",
+    "src": "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff"
+  },
+  "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2": {
+    "file": "assets/Simple-Line-Icons-D0KobG-u.woff2",
+    "src": "resources/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2"
+  }
+}
