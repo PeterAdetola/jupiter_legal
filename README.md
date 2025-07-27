@@ -1,4 +1,4 @@
-# Jupiter Legal Services
+# Jupiter Legal
 
 Welcome to the official website for Jupiter Legal, a modern legal service provider specializing in **Real Estate Law**, **Business Law**, and other key legal areas. Built on Laravel with a flat file (Markdown + YAML front matter) architecture, this site is optimized for speed, accessibility, and SEO.
 
